@@ -1,0 +1,68 @@
+form input.form-control {
+    padding: 6px 0 7px;
+    color: currentColor;
+    background: none;
+    border: 0;
+    margin: 0;
+    display: block;
+}
+
+form.dangKy {
+    width: 100%;
+}
+
+form p {
+    margin-bottom: 5px;
+    color: #d4d4dc;
+}
+
+form p.invalid {
+    color: #ff414e;
+    font-size: 11px;
+    font-weight: 400;
+    line-height: 16px;
+}
+
+form select {
+    color: currentColor !important;
+    background: none !important;
+    border: none !important;
+    padding: 0 !important;
+}
+
+form select option {
+    color: black !important;
+}
+
+button.btn_signup {
+    background-color: #feda6a;
+    height: 60px;
+    margin-top: 32px;
+    min-height: 60px;
+    border-radius: 8px;
+    border: 0;
+    font-weight: 500;
+    width: 100%;
+}
+
+.form__div {
+    align-items: center;
+    display: inline-flex;
+    background-color: #333336;
+    color: #ffffff;
+    width: 100% !important;
+    border: 0px !important;
+    height: 50px !important;
+    font-size: 17px !important;
+    font-weight: 400 !important;
+    line-height: 20px !important;
+    border-radius: 8px !important;
+    padding-left: 13px;
+}
+
+.form-control:focus {
+    color: white;
+    background:none !important;
+    outline: 0;
+    box-shadow: none;
+}

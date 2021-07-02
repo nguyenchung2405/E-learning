@@ -1,0 +1,59 @@
+.container .slick-list {
+    height: 380px;
+    /* width: 1000px;  */
+}
+
+.container .slick-list .row {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.container .slick-list .row .col-8 {
+    padding-right: 0;
+}
+
+.container h3.text-white {
+    font-size: 32px;
+    font-style: normal;
+    text-align: left;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: 0px;
+}
+
+.ant-carousel .slick-list {
+    height: 100%;
+}
+
+.ant-carousel .slick-list .slick-track {
+    height: 100%;
+}
+
+.ant-carousel .slick-list .slick-track .slick-slide {
+    height: 100%;
+}
+
+.ant-carousel .slick-list .slick-track .slick-slide div {
+    height: 100%;
+}
+
+.carousel {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top;
+    height: 100vh;
+    background-position: center;
+}
+
+.carousel1 {
+    background-image: url(../../assets/img/carousel1.jpg);
+}
+.carousel2 {
+    background-image: url(../../assets/img/carousel2.png);
+}
+.carousel3 {
+    background-image: url(../../assets/img/carousel3.png);
+}
+.carousel4 {
+    background-image: url(../../assets/img/carousel4.jpg);
+}

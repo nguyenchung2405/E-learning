@@ -1,0 +1,82 @@
+.btn {
+    line-height: 44px;
+    height: 44px;
+    font-size: 16px;
+    min-width: 105px;
+    margin-left: 5px;
+    border-radius: 24px;
+    text-transform: none;
+    padding: 0 16px;
+    text-align: center;
+    text-decoration: none !important;
+    transition: background-color 250ms;
+}
+
+.nav-fixed{
+    width: 100%;
+    position: fixed;
+    background-color: #1d1e22;
+    margin-bottom: 1rem;
+    top: 0;
+    z-index: 999;
+}
+
+.btn-dangnhap {
+    border: 1px solid rgba(0, 0, 0, 0.23);
+}
+
+.btn-dangnhap:hover {
+    background-color: rgba(255, 255, 255, 0.04);
+}
+
+.btn-dangky {
+    color: #1D1E22;
+    background-color: #feda6a;
+}
+
+.btn-dangky:hover {
+    color: white;
+    background-color: rgba(255, 255, 255, 0.04);
+}
+
+.active-color {
+    color: #feda6a !important;
+    /* background-color: #feda6a; */
+}
+
+.avatar {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 44px;
+    height: 44px;
+    cursor: pointer;
+}
+
+.btn__dropdown {
+    background: transparent;
+    border: none;
+}
+
+.btn__dropdown:focus {
+    outline: none;
+}
+
+.dropdown-toggle::after {
+    content: none;
+}
+
+.dropdown-menu-alter {
+    left: -117px !important;
+    border: 1px solid #393f4d;
+    background-color: #1D1E22;
+}
+
+.dropdown-item-bg:hover {
+    background-color: transparent;
+}
+
+.gachchan {
+    height: 2px;
+    margin: .25rem 1.5rem;
+    background: #393f4d;
+}

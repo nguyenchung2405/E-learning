@@ -1,0 +1,33 @@
+.tieude {
+    color: #feda6a;
+    font-size: 13px;
+    font-family: SF Pro Display;
+    line-height: 18px;
+    margin-bottom: 5px;
+    padding-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.footer__p {
+    color: #d4d4dc;
+    font-size: 13px;
+    margin-top: 10px;
+    line-height: 18px;
+    margin-bottom: 0;
+}
+
+footer a {
+    text-decoration: none;
+}
+
+.border {
+    border-top: 1px solid #393f4d;
+}
+
+.About__Us {
+   width: 280px;
+}
+
+.CSKH {
+    width: 280px;
+}
