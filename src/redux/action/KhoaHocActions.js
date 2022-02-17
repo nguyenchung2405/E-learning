@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { GET_MANG_KH, GET_DETAIL_KH } from '../type/type';
 
-export const layDanhSachKhoaHoc = (maNhom = "GP03") => {
+export const layDanhSachKhoaHoc = (maNhom = "GP01") => {
     return async (dispatch) => {
         try {
             const result = await axios({
