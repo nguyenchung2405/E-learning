@@ -23,12 +23,12 @@ export default function Footer() {
                 </div>
                 <div className="Address" style={{ width: '200px ' }}>
                     <p className={`${style.tieude}`}>địa chỉ</p>
-                    <p className={`${style.footer__p}`}>112 Cao Thắng, Q.3, TP.HCM</p>
-                    <p className={`${style.footer__p}`}>Email: cybersoft@gmail.com</p>
+                    <p className={`${style.footer__p}`}>370/35 Hàn Thuyên, Biên Hòa, Đồng Nai</p>
+                    <p className={`${style.footer__p}`}>Email: dnchung@gmail.com</p>
                 </div>
                 <div className="social">
                     <p className={`${style.tieude}`}>social</p>
-                    <a href="https://www.facebook.com/lophocviet/?ref=page_internal">
+                    <a href="https://www.facebook.com/groups/393652247715226">
                         <img src="https://i.pinimg.com/originals/79/0d/29/790d29ac20dc5fc7cd5c2a61cbddb9f7.png" alt="icon__FB" style={{ width: '30px', height: '30px' }} />
                     </a>
                 </div>
